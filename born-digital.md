@@ -11,16 +11,20 @@
 
 ## Data, Records, and Archives in the Cloud
 [https://muse.jhu.edu/journals/canadian_journal_of_information_and_library_science/toc/ils.39.2.html]
-#born-digital
+
+\#born-digital
 
 ## Infrastructure for Emulation
 [http://blog.dshr.org/2015/09/infrastructure-for-emulation.html]
- #born-digital,#digitalpreservation
+
+\#born-digital,#digitalpreservation
 
 ## From Theory to Action: Good Enough Digital Preservation for Under-Resourced Cultural Heritage Institutions
 [http://commons.lib.niu.edu/handle/10843/13610]
- #born-digital
+
+\#born-digital
 
 ## A Unified Approach to Preserving Cultural Software Objects and Their Development Histories
 [http://www.escholarship.org/uc/item/0wg4w6b9]
- #gaming,#born-digital
+
+\#gaming,#born-digital
