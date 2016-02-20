@@ -7,7 +7,7 @@
 
 Geared toward journalists and marketers, not necessarily at academic libraries (but possibly academic researchers)
 
-#social-media, #ethics, #feminism
+\#social-media, #ethics, #feminism
 
 ## Reading title, author
 [https://modelviewculture.com/pieces/in-defense-of-twitter-feminism](https://modelviewculture.com/pieces/in-defense-of-twitter-feminism)
@@ -26,18 +26,20 @@ Geared toward journalists and marketers, not necessarily at academic libraries (
 
 ## A Topology of Twitter Research: Disciplines, Methods, and Ethics
 [http://www.michaelzimmer.org/2014/06/10/a-topology-of-twitter-research-disciplines-methods-and-ethics/]
-#social-media
+
+\#social-media
 
 ## Is it Ethical to Harvest Public Twitter Accounts without Consent?
 [http://www.michaelzimmer.org/2010/02/12/is-it-ethical-to-harvest-public-twitter-accounts-without-consent/]
 
 \#social-media
----
 
 ## Annotated bibliography for my talk at Personal Digital Archiving 2015, Eira Tansey
 [http://eiratansey.com/2015/04/24/pda15bib/]
-#social-media
+
+\#social-media
 
 ## NARA White Paper: Best Practices for Capturing Social Media
 [http://www.archives.gov/records-mgmt/resources/socialmediacapture.pdf]
-#social-media
+
+\#social-media
