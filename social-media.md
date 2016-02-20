@@ -30,7 +30,9 @@ Geared toward journalists and marketers, not necessarily at academic libraries (
 
 ## Is it Ethical to Harvest Public Twitter Accounts without Consent?
 [http://www.michaelzimmer.org/2010/02/12/is-it-ethical-to-harvest-public-twitter-accounts-without-consent/]
+
 \#social-media\
+---
 
 ## Annotated bibliography for my talk at Personal Digital Archiving 2015, Eira Tansey
 [http://eiratansey.com/2015/04/24/pda15bib/]
