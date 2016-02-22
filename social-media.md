@@ -43,3 +43,6 @@ Geared toward journalists and marketers, not necessarily at academic libraries (
 [http://www.archives.gov/records-mgmt/resources/socialmediacapture.pdf]
 
 \#social-media
+
+## Collaborative Construction of Digital Cultural Heritage: A Synthesis of Research on Online Sociability Determinants, Chern Li Liew
+[http://www.dlib.org/dlib/november15/liew/11liew.html]
