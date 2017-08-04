@@ -27,4 +27,7 @@
 ## A Unified Approach to Preserving Cultural Software Objects and Their Development Histories
 [http://www.escholarship.org/uc/item/0wg4w6b9]
 
+## Hierarchical File System (HFS)
+[https://github.com/libyal/libfshfs/blob/master/documentation/Hierarchical%20File%20System%20(HFS).asciidoc]
+
 \#gaming,#born-digital
