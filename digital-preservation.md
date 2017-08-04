@@ -8,4 +8,7 @@
 ## NDSA Levels of Digital Preservation
 [http://www.digitalpreservation.gov/ndsa/activities/levels.html]
 
+## Trevor Owen's The Theory and Craft of Digital Preservation
+[https://osf.io/preprints/lissa/5cpjt]
+
 \#digital-preservation
